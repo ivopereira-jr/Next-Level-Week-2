@@ -1,0 +1,17 @@
+{
+  "name": "Nlw-2",
+  "version": "1.0.0",
+  "description": "<h3 align=\"center\"> <b>Semana Next level week 2 <p><a href=\"https://rocketseat.com.br\"><img alt=\"Made by Rocketseat\" src=\"https://img.shields.io/badge/made%20by-Rocketseat-%237519C1\"></a></p></b>",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2",
+    "sqlite-async": "^1.1.0"
+  }
+}
