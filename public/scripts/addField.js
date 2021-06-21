@@ -13,7 +13,7 @@ function cloneField(){
     const fields = newFieldContainer.querySelectorAll('input')
     
     //para cada campo, limpar
-    fields.forEach(function(field){
+    fields.forEach(function(field) {
         //pegar o field do momento e limpa ele
         field.value = ""
     })   

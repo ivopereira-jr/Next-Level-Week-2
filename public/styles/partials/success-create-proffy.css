@@ -1,0 +1,52 @@
+body {
+
+  background-color: var(--color-primary);
+  
+}
+
+main {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-image: url('/images/success-background.svg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  text-align: center;
+}
+
+main h2 {
+  font-size: 5.4rem;
+  font-weight: bold;
+  line-height: 4.2rem;
+  font-family: Archivo;
+  color: var(--color-title-in-primary);
+  margin-top: 4rem;
+}
+
+main p {
+  font-size: 1.6rem;
+  font-weight: normal;
+  line-height: 2.6rem;
+  font-family: Poppins;
+  color: var(--color-text-in-primary);
+  margin-top: 2.4rem;
+}
+
+main a {
+  padding: 1.5rem 4rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 2.6rem;
+  color: var(--color-title-in-primary);
+  background-color: var(--color-secondary);
+  border-radius: 0.8rem;
+  margin-top: 8rem;
+  transition: background-color 600ms;
+}
+
+main a:hover {
+  background-color: var(--color-secondary-dark);
+}
