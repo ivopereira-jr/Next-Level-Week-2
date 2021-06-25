@@ -9,7 +9,7 @@
 </br>
 
 <h4 align="center">
-	Proffy Finalizado🚀🏁
+	🚧 Proffy Finalizado🚀🏁
 </h4>
 
 <p align="center">
@@ -58,12 +58,24 @@ O projeto foi ministrado pelo <a href="https://github.com/maykbrito">Maiky Brito
 
 O Proffy é uma plataforma de estudos on-line, com intuito de conectar alunos e professores com o objetivo de ter aulas on-line.
 
-</br></br>
-<img alt="home page proffy" width="100%" src="public/images/readme/Home.jpg">  
-</br></br>
+</br>
+
+<img alt="home page proffy" width="100%" src="public/images/readme/Home.jpg">
 
 </br>
- 
+</br>
+</br>
+
+## 🎬 Demo
+
+</br>
+
+<img alt="demonstração do proffy" width="100%" src="public/images/readme/demo.gif">
+
+</br>
+</br>
+</br>
+
 ## <a name='Tecnologias'></a> 🛠️ Tecnologias 
 
 As seguintes ferramentas foram usadas na construção do projeto:
